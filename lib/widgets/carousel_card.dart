@@ -13,7 +13,7 @@ class CarouselCard extends StatelessWidget {
       child: ClipRRect(
         borderRadius: BorderRadius.circular(4),
         child: Image.asset(
-          "assets/$photo.jpg",
+          "assets/movies/$photo.jpg",
           fit: BoxFit.fill,
         ),
       ),

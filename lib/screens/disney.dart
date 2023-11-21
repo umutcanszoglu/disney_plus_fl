@@ -31,7 +31,7 @@ class Disney extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Colors.transparent,
           centerTitle: true,
-          title: Image.asset("assets/logo.png", width: 120),
+          title: Image.asset("assets/logos/logo.png", width: 120),
         ),
         body: ListView(
           children: [

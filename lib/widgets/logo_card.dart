@@ -22,7 +22,7 @@ class LogoCard extends StatelessWidget {
         border: Border.all(color: const Color(0xff1a1c29).withOpacity(0.2)),
         borderRadius: BorderRadius.circular(8),
       ),
-      child: Image.asset("assets/$photo.png"),
+      child: Image.asset("assets/logos/$photo.png"),
     );
   }
 }

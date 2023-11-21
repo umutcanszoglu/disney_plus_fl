@@ -18,7 +18,7 @@ class VerticalCard extends StatelessWidget {
       child: ClipRRect(
         borderRadius: BorderRadius.circular(4),
         child: Image.asset(
-          "assets/$photo.jpg",
+          "assets/posters/$photo.jpg",
           fit: BoxFit.cover,
         ),
       ),

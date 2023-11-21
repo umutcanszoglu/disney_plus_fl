@@ -30,7 +30,7 @@ class BottomNav extends StatelessWidget {
           icon: CircleAvatar(
             backgroundColor: Colors.white.withOpacity(0.5),
             radius: 15,
-            child: Image.asset("assets/homer.png", width: 26),
+            child: Image.asset("assets/movies/homer.png", width: 26),
           ),
           label: '',
         ),
